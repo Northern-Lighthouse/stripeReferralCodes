@@ -1,6 +1,6 @@
 # Required Items
 
-you must have nodejs, and npm installed on your computer. You must have create-react-app npm package installed and have the following account: Firebase, Google Cloud Platform, and Stripe
+You must have nodejs, and npm installed on your computer. You must also have create-react-app npm package installed and have the following account: Firebase, Google Cloud Platform, and Stripe.
 
 ## Install Packages
 
