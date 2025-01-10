@@ -8,4 +8,4 @@ You must have nodejs, and npm installed on your computer. You must also have cre
 
 ## Learn More
 
-You can learn more by watching my tutorial series at [Business Prompt Engineer](https://www.youtube.com/@businessPromptEngineer).
+You can learn more by watching my tutorial series at [Dock Frog](https://www.youtube.com/@dockFrog).
